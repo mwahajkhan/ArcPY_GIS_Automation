@@ -2,7 +2,7 @@
 
 Dhaka, the capital of Bangladesh, is one of the world's most densely populated cities, with a rapidly evolving urban landscape and transportation network.
 
-![Geographic Map](Dhaka_GDB/Geographic_Map.png) 
+![Geographic Map](Geodatabases/Dhaka_GDB/Geographic Map.png) 
 
 ## Contents
 This geodatabase contains key spatial data related to Dhaka, including feature classes and subtypes for urban planning and infrastructure analysis.
